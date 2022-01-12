@@ -1,6 +1,6 @@
 # paper_abstract
-
- 国内外关于本选题的研究现状、水平和发展趋势，选题研究的目的和意义 等:
+-----------
+* 国内外关于本选题的研究现状、水平和发展趋势，选题研究的目的和意义 等:
 
 【研究意义】
 随着物联网和工业互联网的快速发展，无论是智能手机还是嵌入式设备，绝大多数软件都是以二进制代码形式发布。在厂家的源代码无法获取或获取不便这一事实下，二进制代码分析成为工业界和学术界研究其安全问题的最佳实践。
@@ -57,7 +57,7 @@ Asm2Vec 和 DeepBinDiff 很好地消除了不同编译器和代码混淆对代�
 
 -----------
 * 参考文献:
-* 
+
 二进制代码相似性分析关键问题研究 朱晓东
 二进制代码相似性搜索研究进展 夏冰,庞建民,周鑫,单征
 Duan Y, Li X, Wang J, et al. DeepBinDiff: Learning Program-Wide Code Representations for Binary Diffing [C]. In Proceedings of the Network and Distributed Security Symposium (NDSS). 2020.
